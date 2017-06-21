@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <controller id="1" dpi="2000" type="DS4">
+    <configuration id="1">
+      <trigger type="" id="" name="" button_id="" switch_back="no" delay="0"/>
+      <mouse_options_list>
+        <mouse name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)" id="0" mode="Aiming" buffer_size="1" filter="0.00"/>
+      </mouse_options_list>
+      <intensity_list/>
+      <button_map>
+        <button id="abs_axis_16" label="しゃがみ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="LCTRL"/>
+        </button>
+        <button id="abs_axis_15" label="ダッシュ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="LSHIFT"/>
+        </button>
+        <button id="abs_axis_14" label="Fire">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_LEFT"/>
+        </button>
+        <button id="abs_axis_13" label="ADS">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_RIGHT"/>
+        </button>
+        <button id="abs_axis_12" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="g"/>
+        </button>
+        <button id="abs_axis_11" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="f"/>
+        </button>
+        <button id="abs_axis_10" label="リロード">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="r"/>
+        </button>
+        <button id="abs_axis_9" label="ジャンプ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="SPACE"/>
+        </button>
+        <button id="abs_axis_8" label="格闘">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="e"/>
+        </button>
+        <button id="abs_axis_7" label="">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_X2"/>
+        </button>
+        <button id="abs_axis_6" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="2"/>
+        </button>
+        <button id="abs_axis_5" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="5"/>
+        </button>
+        <button id="abs_axis_4" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="3"/>
+        </button>
+        <button id="abs_axis_3" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="q"/>
+        </button>
+        <button id="abs_axis_11" label="">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_X1"/>
+        </button>
+        <button id="abs_axis_12" label="">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_X1"/>
+        </button>
+        <button id="abs_axis_17" label="スコアボード">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="t"/>
+        </button>
+        <button id="abs_axis_1" label="Menu">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="u"/>
+        </button>
+      </button_map>
+      <axis_map>
+        <axis id="rel_axis_3" label="Aiming - y axis">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="axis" id="y" dead_zone="28" multiplier="14.00" exponent="0.38" shape=""/>
+        </axis>
+        <axis id="rel_axis_2" label="Aiming - x axis">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="axis" id="x" dead_zone="28" multiplier="14.00" exponent="0.38" shape=""/>
+        </axis>
+        <axis id="rel_axis_0-" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="a"/>
+        </axis>
+        <axis id="rel_axis_1+" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="s"/>
+        </axis>
+        <axis id="rel_axis_0+" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="d"/>
+        </axis>
+        <axis id="rel_axis_1-" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="w"/>
+        </axis>
+      </axis_map>
+      <joystick_corrections_list/>
+    </configuration>
+    <configuration id="2">
+      <trigger type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)" button_id="BUTTON_RIGHT" switch_back="yes" delay="0"/>
+      <mouse_options_list>
+        <mouse name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)" id="0" mode="Aiming" buffer_size="1" filter="0.00"/>
+      </mouse_options_list>
+      <intensity_list/>
+      <button_map>
+        <button id="abs_axis_16" label="しゃがみ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="LCTRL"/>
+        </button>
+        <button id="abs_axis_15" label="ダッシュ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="LSHIFT"/>
+        </button>
+        <button id="abs_axis_14" label="Fire">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_LEFT"/>
+        </button>
+        <button id="abs_axis_13" label="ADS">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_RIGHT"/>
+        </button>
+        <button id="abs_axis_12" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="g"/>
+        </button>
+        <button id="abs_axis_11" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="f"/>
+        </button>
+        <button id="abs_axis_10" label="リロード">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="r"/>
+        </button>
+        <button id="abs_axis_9" label="ジャンプ">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="SPACE"/>
+        </button>
+        <button id="abs_axis_8" label="格闘">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="e"/>
+        </button>
+        <button id="abs_axis_7" label="">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="button" id="BUTTON_X2"/>
+        </button>
+        <button id="abs_axis_6" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="2"/>
+        </button>
+        <button id="abs_axis_5" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="5"/>
+        </button>
+        <button id="abs_axis_4" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="3"/>
+        </button>
+        <button id="abs_axis_3" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="q"/>
+        </button>
+      </button_map>
+      <axis_map>
+        <axis id="rel_axis_3" label="Aiming - y axis">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="axis" id="y" dead_zone="20" multiplier="1.00" exponent="1.00" shape=""/>
+        </axis>
+        <axis id="rel_axis_2" label="Aiming - x axis">
+          <device type="mouse" id="0" name="Microsoft SideWinder X5 Mouse (Mouse and Keyboard Center)"/>
+          <event type="axis" id="x" dead_zone="20" multiplier="1.00" exponent="1.00" shape=""/>
+        </axis>
+        <axis id="rel_axis_0-" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="a"/>
+        </axis>
+        <axis id="rel_axis_1+" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="s"/>
+        </axis>
+        <axis id="rel_axis_0+" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="d"/>
+        </axis>
+        <axis id="rel_axis_1-" label="">
+          <device type="keyboard" id="0" name="Microsoft SideWinder X6 Keyboard (106/109) (Mouse and Keyboard Center)"/>
+          <event type="button" id="w"/>
+        </axis>
+      </axis_map>
+      <joystick_corrections_list/>
+    </configuration>
+  </controller>
+</root>

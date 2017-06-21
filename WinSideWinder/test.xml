@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <controller id="1" dpi="2000" type="Sixaxis">
+    <configuration id="1">
+      <trigger type="" id="" name="" button_id="" switch_back="" delay="0"/>
+      <mouse_options_list>
+        <mouse name="" id="0" mode="Aiming" buffer_size="1" filter="0.00"/>
+      </mouse_options_list>
+      <intensity_list/>
+      <button_map/>
+      <axis_map>
+        <axis id="rel_axis_3" label="Aiming - y axis">
+          <device type="mouse" id="0" name=""/>
+          <event type="axis" id="y" dead_zone="20" multiplier="1.00" exponent="1.00" shape="Circle"/>
+        </axis>
+        <axis id="rel_axis_2" label="Aiming - x axis">
+          <device type="mouse" id="0" name=""/>
+          <event type="axis" id="x" dead_zone="20" multiplier="1.00" exponent="1.00" shape="Circle"/>
+        </axis>
+      </axis_map>
+      <joystick_corrections_list/>
+    </configuration>
+    <configuration id="2">
+      <trigger type="mouse" id="0" name="" button_id="BUTTON_RIGHT" switch_back="yes" delay="0"/>
+      <mouse_options_list>
+        <mouse name="" id="0" mode="Aiming" buffer_size="1" filter="0.00"/>
+      </mouse_options_list>
+      <intensity_list/>
+      <button_map/>
+      <axis_map>
+        <axis id="rel_axis_3" label="Aiming - y axis">
+          <device type="mouse" id="0" name=""/>
+          <event type="axis" id="y" dead_zone="20" multiplier="1.00" exponent="1.00" shape="Circle"/>
+        </axis>
+        <axis id="rel_axis_2" label="Aiming - x axis">
+          <device type="mouse" id="0" name=""/>
+          <event type="axis" id="x" dead_zone="20" multiplier="1.00" exponent="1.00" shape="Circle"/>
+        </axis>
+      </axis_map>
+      <joystick_corrections_list/>
+    </configuration>
+  </controller>
+</root>
